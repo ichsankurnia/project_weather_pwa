@@ -1,5 +1,6 @@
 {
   "name": "pwa_react_video",
+  "homepage": "https://ories.goes2nobel.com/ReactApp/weathering/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
